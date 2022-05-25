@@ -1,0 +1,9 @@
+C:\Users\Filip\source\repos\BazeProjekat\bin\Debug\BazeProjekat.exe.config
+C:\Users\Filip\source\repos\BazeProjekat\bin\Debug\BazeProjekat.exe
+C:\Users\Filip\source\repos\BazeProjekat\bin\Debug\BazeProjekat.pdb
+C:\Users\Filip\source\repos\BazeProjekat\obj\Debug\BazeProjekat.csproj.AssemblyReference.cache
+C:\Users\Filip\source\repos\BazeProjekat\obj\Debug\BazeProjekat.Properties.Resources.resources
+C:\Users\Filip\source\repos\BazeProjekat\obj\Debug\BazeProjekat.csproj.GenerateResource.cache
+C:\Users\Filip\source\repos\BazeProjekat\obj\Debug\BazeProjekat.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\BazeProjekat\obj\Debug\BazeProjekat.exe
+C:\Users\Filip\source\repos\BazeProjekat\obj\Debug\BazeProjekat.pdb
