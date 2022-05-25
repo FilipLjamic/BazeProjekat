@@ -7,3 +7,5 @@ C:\Users\Filip\source\repos\BazeProjekat\obj\Debug\BazeProjekat.csproj.GenerateR
 C:\Users\Filip\source\repos\BazeProjekat\obj\Debug\BazeProjekat.csproj.CoreCompileInputs.cache
 C:\Users\Filip\source\repos\BazeProjekat\obj\Debug\BazeProjekat.exe
 C:\Users\Filip\source\repos\BazeProjekat\obj\Debug\BazeProjekat.pdb
+C:\Users\Filip\source\repos\BazeProjekat\obj\Debug\BazeProjekat.Form1.resources
+C:\Users\Filip\source\repos\BazeProjekat\obj\Debug\BazeProjekat.Form2.resources

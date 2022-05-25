@@ -8,6 +8,9 @@ namespace BazeProjekat
 {
     static class Program
     {
+        static public bool user_uloga = false;
+        static public string user_ime = "";
+        static public string user_prezime = "";
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
